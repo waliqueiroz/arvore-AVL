@@ -1,2 +1,2 @@
 # arvore-AVL
-Implementação em Java de uma árvore binária de busca balanceada.
+Implementação de uma árvore binária de busca balanceada em Java.
